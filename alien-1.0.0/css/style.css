@@ -260,6 +260,15 @@ button {
     width: 100%;
     float: left;
     padding: 120px 0px 80px 0px;
+    
+}
+
+.banner_section video {
+    margin-top: 35px;
+    margin-bottom: 10vh;
+    margin-left: 20px;
+    height: 70vh;
+    width: 70vh;
 }
 
 .banner_taital_main {
